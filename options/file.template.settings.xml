@@ -1,0 +1,12 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="M2 acl.xml.xml" reformat="true" live-template-enabled="true" />
+      <template name="M2 di.xml.xml" reformat="true" live-template-enabled="true" />
+      <template name="M2 layout.xml.xml" reformat="true" live-template-enabled="true" />
+      <template name="M2 menu.xml.xml" reformat="true" live-template-enabled="true" />
+      <template name="M2 system.xml.xml" reformat="true" live-template-enabled="true" />
+      <template name="M2 webapi.xml.xml" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>

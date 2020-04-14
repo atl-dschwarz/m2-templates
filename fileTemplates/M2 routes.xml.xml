@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="#if (${Route_Id} != '')${Route_Id}#else${Front_Name}#end" frontName="#if (${Front_Name} != '')${Front_Name}#else${Route_Id}#end">
+            <module name="${Module_Name}" />
+        </route>
+    </router>
+</config>

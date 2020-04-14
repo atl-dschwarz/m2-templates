@@ -1,0 +1,9 @@
+BashSupport
+Gitflow
+com.alayouni.ansiHighlight
+com.intellij.ideolog
+com.magento.idea.magento2plugin
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+name.kropp.intellij.makefile
+ru.adelf.idea.dotenv
